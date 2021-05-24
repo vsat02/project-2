@@ -1,2 +1,2 @@
 # project-2
-Analysis of chest X-Ray images and classifying it into PNEUMONIA and HEALTHY. Explicit optimization of hyperparameters.  
+Medical image analysis. Classifying the chest xray images into PNEUMONIA and HEALTHY. Explicit optimization of hyperparameters.  
